@@ -1,2 +1,2 @@
 # hello-world
-a test project
+Hey guys! This is a test project from Joey. Newbie to this magic world.
